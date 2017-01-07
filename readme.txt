@@ -1,38 +1,3 @@
-CPS305 Assignment 1
-
-No extensions will be given.  No late assignments are accepted.
-
-This file may be copied only by a current CPS305 student, and only to 
-her/his personal space for use in this course. It may never be placed in 
-any public domain, nor in any place accessible by anyone other than the 
-single CPS305 student who copied it.
-
-Consult A1addendum.txt for changes to these requirements, as modifications
-and clarifications may be made at any time and are part of this assignment.
-
-Assignment is done individually. No groups.
-------------------------------------------------------------------------
-
-Topics: 
-------
-  pointers, structures, dynamic memory allocation, 
-  command-line arguments, random number generation, C and Linux 
-
-Platform:
---------
-  The CS moons
-
-Deliverables (files to submit): 
-------------------------------
-  guesser.c           (you write and submit)
-  A1cert.txt          (you copy, edit, fill-in, and submit)
-
-How to Submit: 
--------------
-     submit-cps305dwoit filename   #submits the file named filename
-     check-submit-cps305dwoit      #lists all your submitted files
-
-
 High-Level Summary:
 ------------------
 
@@ -244,6 +209,5 @@ M[0][0]=0x1aa4040. M[i][j]=0x1aa40e8  What's i and j? (or Q or H or HH or HHH): 
 50%     Correct first time (no hints)
 25%     Correct after 2 or more guesses (no hints)
 25%     Correct after hint(s)
-------------------------------------------------------
-dwoit> 
+------------------------------------------------------ 
 
